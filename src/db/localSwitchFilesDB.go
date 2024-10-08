@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/trembon/switch-library-manager/fileio"
-	"github.com/trembon/switch-library-manager/settings"
-	"github.com/trembon/switch-library-manager/switchfs"
+	"github.com/ajmandourah/switch-library-manager/fileio"
+	"github.com/ajmandourah/switch-library-manager/settings"
+	"github.com/ajmandourah/switch-library-manager/switchfs"
 	"go.uber.org/zap"
 )
 

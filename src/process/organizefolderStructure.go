@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/trembon/switch-library-manager/db"
-	"github.com/trembon/switch-library-manager/settings"
+	"github.com/ajmandourah/switch-library-manager/db"
+	"github.com/ajmandourah/switch-library-manager/settings"
 	"go.uber.org/zap"
 	"robpike.io/nihongo"
 )
